@@ -5,8 +5,6 @@
 
 ### Solo - Section 002
 
----
-
 Upon recieving the application idea for the current project we 
 immedately went to work on splitting it into user stories. Our 
 method here was simple: divide and conquer. Each of us claimed 
