@@ -43,7 +43,6 @@ int main(int argc, char const *argv[])
 
       // Determine the hard maximum size
       int max = *max_element(skillCount.begin(), skillCount.end());
-      bool flag = false;
       if(skills.size() < max - 1)
          cout << skills.size() << endl;
       else if(skills.size() > max + 1 || max == skills.size() - 1)
